@@ -1,0 +1,7 @@
+# .gitignore
+dist/
+build/
+*.exe
+*.pyc
+__pycache__/
+*.log
