@@ -1,1 +1,2 @@
 1.0.0
+https://github.com/Genn0206/MF-ATTACHMENTS/releases/download/v1.0.0/MF.ATTACHMENTS.v1.0.0.exe
